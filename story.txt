@@ -1,2 +1,3 @@
 story
-egyszer volt valaki aki volt
+egyszer volt valaki aki volt.
+Ez a valaki aki egyszer volt fogta magát és elment.
